@@ -1,0 +1,66 @@
+
+
+##### approach:--------------------------------------------
+
+
+1.import library
+  import dataset
+
+2.view/E-DA
+  
+   *shape
+   *describe
+   *value count
+   *plot->scatter,plot etc
+
+
+3.preprocessing
+   
+   *data cleaning
+    ->imputation,
+   *encoding
+   *remove redandant
+
+
+
+4.Feature selection
+ *correlation
+ -----
+
+ ----
+
+5.Train on fit the data
+
+6.Apply elbow method 
+->for finding optimal k
+
+7.Evaluation
+->sithewent coefficient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------
+range of correlation : -1 to 1
+
+
+
+
+----------
+wcss ,
+
+
+
+
+
+lab1 : implement k-means for mall customer segmentaion
